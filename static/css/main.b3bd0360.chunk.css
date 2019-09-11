@@ -1,2 +1,0 @@
-.App{text-align:center}.wrapp{display:grid;grid-template-columns:auto auto;grid-gap:20px}@media screen and (max-width:1500px){.wrapp{grid-template-columns:auto}}.post{border:2px solid #000}.post__name{width:600px;margin:20px auto}.post__body{width:400px;margin:20px auto}.comments{display:grid;grid-template-columns:repeat(2,auto)}@media screen and (max-width:1500px){.comments{grid-template-columns:repeat(2,1fr)}}.comment{border:1px solid #000;margin:10px;padding:50px}
-/*# sourceMappingURL=main.b3bd0360.chunk.css.map */
